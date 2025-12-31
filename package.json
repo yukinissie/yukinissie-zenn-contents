@@ -1,0 +1,16 @@
+{
+  "name": "yukinissie-zenn-contents",
+  "version": "1.0.0",
+  "description": "yukinissie's Zenn contents",
+  "scripts": {
+    "preview": "zenn preview",
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book"
+  },
+  "keywords": ["zenn"],
+  "author": "yukinissie",
+  "license": "MIT",
+  "devDependencies": {
+    "zenn-cli": "^0.1.155"
+  }
+}

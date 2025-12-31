@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# Zenn CLI
+.zenn/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
