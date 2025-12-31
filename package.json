@@ -1,25 +1,26 @@
 {
-	"name": "yukinissie-zenn-contents",
-	"version": "1.0.0",
-	"description": "yukinissie's Zenn contents",
-	"main": "index.js",
-	"scripts": {
-		"new": "zenn new:article --slug",
-		"preview": "zenn preview"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/yukinissie/yukinissie-zenn-contents.git"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
-	"type": "commonjs",
-	"bugs": {
-		"url": "https://github.com/yukinissie/yukinissie-zenn-contents/issues"
-	},
-	"homepage": "https://github.com/yukinissie/yukinissie-zenn-contents#readme",
-	"dependencies": {
-		"zenn-cli": "^0.2.11"
-	}
+  "name": "yukinissie-zenn-contents",
+  "version": "1.0.0",
+  "description": "yukinissie's Zenn contents",
+  "main": "index.js",
+  "scripts": {
+    "new:article": "zenn new:article --slug",
+    "new:book": "zenn new:book --slug",
+    "preview": "zenn preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yukinissie/yukinissie-zenn-contents.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yukinissie/yukinissie-zenn-contents/issues"
+  },
+  "homepage": "https://github.com/yukinissie/yukinissie-zenn-contents#readme",
+  "dependencies": {
+    "zenn-cli": "^0.2.11"
+  }
 }

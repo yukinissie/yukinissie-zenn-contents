@@ -1,0 +1,9 @@
+title: "学生ハッカソン無双ガイド2025"
+summary: "ニッシー☆が贈る、学生ハッカソンで勝ち抜くための最強レシピ集！効率的な準備からチームビルディング、アイデア発想法まで、成功への道を徹底解説。これ一冊で、あなたもハッカソン無双者に！（AI編集）"
+topics: ["hackathon", "programming", "career", "student"]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - example1
+  - example2
